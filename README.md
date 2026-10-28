@@ -1,8 +1,7 @@
 <!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Mehmet Kıvrak — Full Stack Web Developer" />
-
+<img src="./header.svg" width="100%" alt="Mehmet Kıvrak — Full Stack Web Developer" />
 <a href="https://mehmetk.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=61DAFB&center=true&vCenter=true&width=640&lines=Next.js+%C2%B7+NestJS+%C2%B7+Laravel+%C2%B7+PostgreSQL;Multi-tenant+SaaS+%26+ger%C3%A7ek+zamanl%C4%B1+web+uygulamalar%C4%B1;DDD+%C2%B7+Repository+Pattern+%C2%B7+Katmanl%C4%B1+mimari" alt="Typing SVG" />
 </a>
